@@ -1,0 +1,50 @@
+/*HTML js*/
+html
+{
+    scroll-behavior: auto !important;
+}
+
+/*Navbar*/
+.navbar
+{
+    position: fixed;
+    width: 100vw;
+    z-index: 2;
+    background: none;
+}
+
+/*Iconos de Quiénes somos*/
+div.iconos 
+{
+    height: 35px;
+    font-size: 25px;
+}
+
+/*Todo el cuerpo*/
+body 
+{
+    background-color: black;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/*Parrafos*/
+
+p
+{
+    line-height: 28px;
+    text-align: justify;
+}
+
+/*Titulos*/
+h1
+{
+    font-size: 700;
+    font-weight: 100px;
+}
+
+
+/*Footer*/
+textarea.container
+{
+    border-radius: 5px;
+}
